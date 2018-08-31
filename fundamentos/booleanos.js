@@ -10,7 +10,7 @@ console.log(!!isAtivo) // sempre colocar '!!' para forçar a linguagem a ler com
 console.log('Os verdadeiros ...')
 console.log(!!3)
 console.log(!!-1)
-console.log(!!'')
+console.log(!!' ')
 console.log(!!'texto')
 console.log(!![]) // array
 console.log(!!{}) // objeto literal
